@@ -65,12 +65,22 @@ a:hover{
   margin-left: 30px;
 }
 
+.gym-pic {
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
 .code-skill-description {
   clear: left;
 }
 
 .board-games-description {
   clear: right;
+}
+
+.gym-description {
+  clear: left;
 }
 
 .top-container {
